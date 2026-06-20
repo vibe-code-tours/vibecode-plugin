@@ -1,0 +1,10 @@
+{
+  "name": "vibecode",
+  "version": "1.0.0",
+  "description": "Vibe Code Tours bootcamp starter — curated MCP servers, skills, and agents for Claude Code.",
+  "author": { "name": "Vibe Code Tours", "url": "https://vibecode.tours" },
+  "homepage": "https://vibecode.tours",
+  "repository": "https://github.com/vibe-code-tours/vibecode-plugin",
+  "license": "MIT",
+  "keywords": ["bootcamp", "starter", "mcp", "skills", "agents", "vibecode"]
+}
