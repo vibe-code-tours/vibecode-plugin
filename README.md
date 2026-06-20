@@ -19,11 +19,14 @@ MCP servers, skills, and agents for Claude Code.
 - `pr-review` — review your own diff before pushing
 - `debugging` — reproduce, isolate, fix the root cause
 - `marp-slides` — PechaKucha 6x20 pitch decks
+- `ship-project` — write a README, make it runnable, get it online
 - `burmese-translate` — bilingual EN + မြန်မာ content
 
-**Agents** (`agents/`) — tailored to the bootcamp stack (TS bot, Next.js site, Marp, Claude API)
-- `code-reviewer`, `typescript-reviewer`, `security-reviewer`
-- `frontend-designer`, `planner`, `tdd-guide`, `build-error-resolver`, `pitch-coach`
+**Agents** (`agents/`) — helpers for building **your own** project
+- `code-explainer` — explains code & error messages in plain language
+- `code-reviewer`, `security-reviewer` — catch bugs & risks before you commit
+- `frontend-designer` — build accessible, good-looking web UI
+- `planner`, `tdd-guide`, `build-error-resolver`, `pitch-coach`
 
 ## Install (via the Vibe Code proxy marketplace)
 
